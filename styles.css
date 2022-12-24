@@ -155,9 +155,10 @@
 @media (max-width:1024px) {
     .cta-text{
         font-size: 2rem;
+        text-align: center;
     }
     
-}
+
 
 
 
